@@ -1,0 +1,16 @@
+
+body{
+    background: rgb(250, 250, 250);
+}
+
+.blog-print{
+  display: flex;
+  justify-content: space-between;
+}
+
+.caveat{
+  font-family: "Caveat", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
